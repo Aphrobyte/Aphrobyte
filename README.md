@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Aphrobyte
 - 👀 I’m interested in electronics and physics.
 - 🌱 I’m currently learning Python and MATLAB.
-- 💞️ I’m not looking to collaborate on anything :)
-- 📫 How to reach me ...Don't :)
+- 📫 How to reach me ...https://www.linkedin.com/in/aphrodite-ioannidou-2445b7272/
 
 <!---
 Aphrobyte/Aphrobyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
